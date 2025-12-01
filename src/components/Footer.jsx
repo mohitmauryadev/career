@@ -71,7 +71,7 @@ export default function Footer() {
           <h3 className="text-xl font-semibold text-yellow-400">Contact Us</h3>
           <div className="flex items-center gap-3 text-gray-300">
             <MapPin size={20} />
-            <span>BBD University Lucknow, India</span>
+            <span>BBD NIIT Lucknow, India</span>
           </div>
           <div className="flex items-center gap-3 text-gray-300">
             <Phone size={20} />
@@ -80,6 +80,14 @@ export default function Footer() {
           <div className="flex items-center gap-3 text-gray-300">
             <Mail size={20} />
             <span>shubhamkushwaha3657@gmail.com</span>
+          </div>
+           <div className="flex items-center gap-3 text-gray-300">
+            <Mail size={20} />
+            <span>manojpandey9628541128@gmail.com</span>
+          </div>
+           <div className="flex items-center gap-3 text-gray-300">
+            <Mail size={20} />
+            <span>pradhumnsingh2006@gmail.com</span>
           </div>
         </div>
       </div>
